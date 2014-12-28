@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"metadata-key": "Metadatenwert"
+	},
+	"first-message-key": "erste Nachricht Wert",
+	"second-message-key": "zweite Nachricht Wert",
+	"third-message-key": "dritte Nachricht Wert",
+	"four-message-key": "vierte Nachricht Wert"
+}

@@ -1,0 +1,8 @@
+{
+	"path": "failures",
+	"sourceFile": "messages.json",
+	"documentationFile": "documentation.json",
+	"flags": {
+		"requireTranslationsNoDuplicates": true
+	}
+}
