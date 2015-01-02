@@ -1,0 +1,6 @@
+{
+	"path": "simple",
+	"flags": {
+		"provideTranslationsCompletenessReport": true
+	}
+}
